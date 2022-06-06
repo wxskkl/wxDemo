@@ -26,7 +26,7 @@
 - 在微信开发者工具里构建 npm
 
 ## vant 组件库的使用
-
+**[官方文档](https://vant-contrib.gitee.io/vant-weapp/#/home)**
 ```json
 "usingComponents": {
   "van-button": "@vant/weapp/button/index",
