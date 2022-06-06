@@ -19,3 +19,18 @@
     |-- utils',  // 公共方法
     |-- views',  // 业务页面
 ```
+
+## 项目初始化
+
+- npm i -registry=https://registry.npm.taobao.org
+- 在微信开发者工具里构建 npm
+
+## vant 组件库的使用
+
+```json
+"usingComponents": {
+  "van-button": "@vant/weapp/button/index",
+  "van-calendar": "@vant/weapp/calendar/index"
+}
+```
+## [dayjs官方文档](https://dayjs.fenxianglu.cn/) 
