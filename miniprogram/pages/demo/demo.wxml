@@ -1,0 +1,8 @@
+<!--demo.wxml-->
+<view class="container">
+  <view class="demo">
+    <van-button type="info" bind:click="onDisplay">demo</van-button>
+    <text>{{ date }}</text>
+    <van-calendar show="{{ show }}" bind:close="onClose" bind:confirm="onConfirm" />
+  </view>
+</view>

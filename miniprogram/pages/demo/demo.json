@@ -1,0 +1,7 @@
+{
+	"navigationBarTitleText": "demo",
+	"usingComponents": {
+		"van-button": "@vant/weapp/button/index",
+		"van-calendar": "@vant/weapp/calendar/index"
+	}
+}
